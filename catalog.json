@@ -1,0 +1,52 @@
+{
+  "shop_name": "متجر مهند للبطاقات",
+  "welcome": "أهلًا بيك في متجر مهند للبطاقات الرقمية 🎁\nاختار القسم اللي عايزه:",
+  "currency": "جنيه",
+  "categories": [
+    {
+      "name": "🎮 Google Play",
+      "children": [
+        {
+          "name": "بطاقات أمريكي",
+          "products": [
+            {
+              "name": "Google Play 5$",
+              "price": 280,
+              "description": "بطاقة جوجل بلاي أمريكي فئة 5 دولار. الكود بيوصلك بعد الدفع."
+            },
+            {
+              "name": "Google Play 10$",
+              "price": 540,
+              "description": "بطاقة جوجل بلاي أمريكي فئة 10 دولار."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🍎 iTunes",
+      "products": [
+        {
+          "name": "iTunes 10$",
+          "price": 550,
+          "description": "بطاقة آيتونز أمريكي فئة 10 دولار."
+        },
+        {
+          "name": "iTunes 25$",
+          "price": 1350,
+          "description": "بطاقة آيتونز أمريكي فئة 25 دولار."
+        }
+      ]
+    },
+    {
+      "name": "🎵 Spotify",
+      "products": [
+        {
+          "name": "Spotify شهر",
+          "price": 120,
+          "description": "اشتراك سبوتيفاي بريميوم لمدة شهر."
+        }
+      ]
+    }
+  ]
+}
