@@ -1,0 +1,849 @@
+{
+ "version": 2,
+ "categories": [
+  {
+   "name": "APP PLUS STORES ( متجر بلص )",
+   "emoji": "🛒",
+   "products": [
+    {
+     "name": "اشتراك سنة",
+     "en": "1 Year Subscription",
+     "prices": {
+      "egp": 800,
+      "usd": 20,
+      "sar": 65
+     }
+    }
+   ]
+  },
+  {
+   "name": "Apple Certifications (شهادات ايفون)",
+   "emoji": "🍎",
+   "products": [
+    {
+     "name": "اشتراك سنة",
+     "en": "1 Year Subscription",
+     "prices": {
+      "egp": 700,
+      "usd": 20,
+      "sar": 60
+     }
+    }
+   ]
+  },
+  {
+   "name": "PUBG Android [Non-ROOT]",
+   "emoji": "🪖",
+   "products": [
+    {
+     "name": "اشتراك يومي",
+     "en": "Daily Subscription",
+     "prices": {
+      "egp": 150,
+      "usd": 3,
+      "sar": 10
+     }
+    },
+    {
+     "name": "اشتراك أسبوع",
+     "en": "1 Week Subscription",
+     "prices": {
+      "egp": 450,
+      "usd": 10,
+      "sar": 35
+     }
+    },
+    {
+     "name": "اشتراك أسبوعين",
+     "en": "2 Weeks Subscription",
+     "prices": {
+      "egp": 700,
+      "usd": 15,
+      "sar": 55
+     }
+    },
+    {
+     "name": "اشتراك شهر",
+     "en": "1 Month Subscription",
+     "prices": {
+      "egp": 900,
+      "usd": 20,
+      "sar": 70
+     }
+    },
+    {
+     "name": "اشتراك شهرين",
+     "en": "2 Months Subscription",
+     "prices": {
+      "egp": 1500,
+      "usd": 30,
+      "sar": 120
+     }
+    }
+   ]
+  },
+  {
+   "name": "PUBG Android [ROOT]",
+   "emoji": "🛠",
+   "products": [
+    {
+     "name": "اشتراك يومي",
+     "en": "Daily Subscription",
+     "prices": {
+      "egp": 150,
+      "usd": 3,
+      "sar": 10
+     }
+    },
+    {
+     "name": "اشتراك أسبوع",
+     "en": "1 Week Subscription",
+     "prices": {
+      "egp": 550,
+      "usd": 15,
+      "sar": 55
+     }
+    },
+    {
+     "name": "اشتراك شهر",
+     "en": "1 Month Subscription",
+     "prices": {
+      "egp": 1100,
+      "usd": 25,
+      "sar": 85
+     }
+    }
+   ]
+  },
+  {
+   "name": "PUBG [IOS]",
+   "emoji": "🍏",
+   "products": [
+    {
+     "name": "اشتراك يومي",
+     "en": "Daily Subscription",
+     "prices": {
+      "egp": 200,
+      "usd": 4,
+      "sar": 15
+     }
+    },
+    {
+     "name": "اشتراك اسبوعي",
+     "en": "Weekly Subscription",
+     "prices": {
+      "egp": 600,
+      "usd": 15,
+      "sar": 55
+     }
+    },
+    {
+     "name": "اشتراك شهري",
+     "en": "Monthly Subscription",
+     "prices": {
+      "egp": 1300,
+      "usd": 30,
+      "sar": 95
+     }
+    }
+   ]
+  },
+  {
+   "name": "8BALL POOL",
+   "emoji": "🎱",
+   "children": [
+    {
+     "name": "ايفون",
+     "en": "iPhone",
+     "emoji": "🍎",
+     "products": [
+      {
+       "name": "اشتراك يومي",
+       "en": "Daily Subscription",
+       "prices": {
+        "egp": 200,
+        "usd": 4,
+        "sar": 15
+       }
+      },
+      {
+       "name": "اشتراك اسبوعي",
+       "en": "Weekly Subscription",
+       "prices": {
+        "egp": 600,
+        "usd": 15,
+        "sar": 55
+       }
+      },
+      {
+       "name": "اشتراك شهري",
+       "en": "Monthly Subscription",
+       "prices": {
+        "egp": 1100,
+        "usd": 25,
+        "sar": 90
+       }
+      }
+     ]
+    },
+    {
+     "name": "اندرويد",
+     "en": "Android",
+     "emoji": "🤖",
+     "products": [
+      {
+       "name": "اشتراك يومي",
+       "en": "Daily Subscription",
+       "prices": {
+        "egp": 200,
+        "usd": 4,
+        "sar": 15
+       }
+      },
+      {
+       "name": "اشتراك اسبوعي",
+       "en": "Weekly Subscription",
+       "prices": {
+        "egp": 600,
+        "usd": 15,
+        "sar": 55
+       }
+      },
+      {
+       "name": "اشتراك شهري",
+       "en": "Monthly Subscription",
+       "prices": {
+        "egp": 1100,
+        "usd": 25,
+        "sar": 90
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "DELTA FORCE [DFM]",
+   "emoji": "🎖",
+   "children": [
+    {
+     "name": "اندرويد",
+     "en": "Android",
+     "emoji": "🤖",
+     "products": [
+      {
+       "name": "اشتراك يومي",
+       "en": "Daily Subscription",
+       "prices": {
+        "egp": 150,
+        "usd": 3,
+        "sar": 10
+       }
+      },
+      {
+       "name": "اشتراك أسبوع",
+       "en": "1 Week Subscription",
+       "prices": {
+        "egp": 450,
+        "usd": 10,
+        "sar": 35
+       }
+      },
+      {
+       "name": "اشتراك أسبوعين",
+       "en": "2 Weeks Subscription",
+       "prices": {
+        "egp": 700,
+        "usd": 15,
+        "sar": 55
+       }
+      },
+      {
+       "name": "اشتراك شهر",
+       "en": "1 Month Subscription",
+       "prices": {
+        "egp": 900,
+        "usd": 20,
+        "sar": 70
+       }
+      },
+      {
+       "name": "اشتراك شهرين",
+       "en": "2 Months Subscription",
+       "prices": {
+        "egp": 1500,
+        "usd": 30,
+        "sar": 120
+       }
+      }
+     ]
+    },
+    {
+     "name": "ايفون",
+     "en": "iPhone",
+     "emoji": "🍎",
+     "products": [
+      {
+       "name": "اشتراك يومي",
+       "en": "Daily Subscription",
+       "prices": {
+        "egp": 200,
+        "usd": 4,
+        "sar": 15
+       }
+      },
+      {
+       "name": "اشتراك اسبوعي",
+       "en": "Weekly Subscription",
+       "prices": {
+        "egp": 600,
+        "usd": 15,
+        "sar": 55
+       }
+      },
+      {
+       "name": "اشتراك شهري",
+       "en": "Monthly Subscription",
+       "prices": {
+        "egp": 1100,
+        "usd": 25,
+        "sar": 90
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Mobile Legends [MLBB]",
+   "emoji": "⚔",
+   "children": [
+    {
+     "name": "ايفون",
+     "en": "iPhone",
+     "emoji": "🍎",
+     "products": [
+      {
+       "name": "اشتراك يومي",
+       "en": "Daily Subscription",
+       "prices": {
+        "egp": 200,
+        "usd": 4,
+        "sar": 15
+       }
+      },
+      {
+       "name": "اشتراك اسبوعي",
+       "en": "Weekly Subscription",
+       "prices": {
+        "egp": 600,
+        "usd": 15,
+        "sar": 55
+       }
+      },
+      {
+       "name": "اشتراك شهري",
+       "en": "Monthly Subscription",
+       "prices": {
+        "egp": 1100,
+        "usd": 25,
+        "sar": 90
+       }
+      }
+     ]
+    },
+    {
+     "name": "اندرويد",
+     "en": "Android",
+     "emoji": "🤖"
+    }
+   ]
+  },
+  {
+   "name": "CALL OF DUTY MOBILE [CODM]",
+   "emoji": "🔫",
+   "children": [
+    {
+     "name": "اندرويد",
+     "en": "Android",
+     "emoji": "🤖",
+     "products": [
+      {
+       "name": "اشتراك يومي",
+       "en": "Daily Subscription",
+       "prices": {
+        "egp": 150,
+        "usd": 3,
+        "sar": 10
+       }
+      },
+      {
+       "name": "اشتراك أسبوع",
+       "en": "1 Week Subscription",
+       "prices": {
+        "egp": 450,
+        "usd": 10,
+        "sar": 35
+       }
+      },
+      {
+       "name": "اشتراك شهر",
+       "en": "1 Month Subscription",
+       "prices": {
+        "egp": 900,
+        "usd": 20,
+        "sar": 70
+       }
+      }
+     ]
+    },
+    {
+     "name": "ايفون",
+     "en": "iPhone",
+     "emoji": "🍎",
+     "products": [
+      {
+       "name": "اشتراك يومي",
+       "en": "Daily Subscription",
+       "prices": {
+        "egp": 200,
+        "usd": 4,
+        "sar": 15
+       }
+      },
+      {
+       "name": "اشتراك اسبوعي",
+       "en": "Weekly Subscription",
+       "prices": {
+        "egp": 600,
+        "usd": 15,
+        "sar": 55
+       }
+      },
+      {
+       "name": "اشتراك شهري",
+       "en": "Monthly Subscription",
+       "prices": {
+        "egp": 1100,
+        "usd": 25,
+        "sar": 90
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "FreeFire",
+   "emoji": "🔥",
+   "children": [
+    {
+     "name": "اندرويد",
+     "en": "Android",
+     "emoji": "🤖",
+     "products": [
+      {
+       "name": "اشتراك يومي",
+       "en": "Daily Subscription",
+       "prices": {
+        "egp": 150,
+        "usd": 3,
+        "sar": 10
+       }
+      },
+      {
+       "name": "اشتراك أسبوع",
+       "en": "1 Week Subscription",
+       "prices": {
+        "egp": 450,
+        "usd": 10,
+        "sar": 35
+       }
+      },
+      {
+       "name": "اشتراك شهر",
+       "en": "1 Month Subscription",
+       "prices": {
+        "egp": 900,
+        "usd": 20,
+        "sar": 70
+       }
+      }
+     ]
+    },
+    {
+     "name": "ايفون",
+     "en": "iPhone",
+     "emoji": "🍎",
+     "products": [
+      {
+       "name": "اشتراك يومي",
+       "en": "Daily Subscription",
+       "prices": {
+        "egp": 200,
+        "usd": 4,
+        "sar": 15
+       }
+      },
+      {
+       "name": "اشتراك اسبوعي",
+       "en": "Weekly Subscription",
+       "prices": {
+        "egp": 600,
+        "usd": 15,
+        "sar": 55
+       }
+      },
+      {
+       "name": "اشتراك شهري",
+       "en": "Monthly Subscription",
+       "prices": {
+        "egp": 1100,
+        "usd": 25,
+        "sar": 90
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "PUBG EMULATOR [PC]",
+   "emoji": "💻",
+   "products": [
+    {
+     "name": "اشتراك يومي",
+     "en": "Daily Subscription",
+     "prices": {
+      "egp": 200,
+      "usd": 4,
+      "sar": 15
+     }
+    },
+    {
+     "name": "اشتراك اسبوعي",
+     "en": "Weekly Subscription",
+     "prices": {
+      "egp": 600,
+      "usd": 15,
+      "sar": 55
+     }
+    },
+    {
+     "name": "اشتراك شهري",
+     "en": "Monthly Subscription",
+     "prices": {
+      "egp": 1200,
+      "usd": 25,
+      "sar": 85
+     }
+    }
+   ]
+  },
+  {
+   "name": "VALORANT",
+   "emoji": "🎯",
+   "children": [
+    {
+     "name": "ايفون",
+     "en": "iPhone",
+     "emoji": "🍎",
+     "products": [
+      {
+       "name": "اشتراك يومي",
+       "en": "Daily Subscription",
+       "prices": {
+        "egp": 200,
+        "usd": 4,
+        "sar": 15
+       }
+      },
+      {
+       "name": "اشتراك أسبوعي",
+       "en": "Weekly Subscription",
+       "prices": {
+        "egp": 600,
+        "usd": 15,
+        "sar": 55
+       }
+      },
+      {
+       "name": "اشتراك شهري",
+       "en": "Monthly Subscription",
+       "prices": {
+        "egp": 1300,
+        "usd": 30,
+        "sar": 95
+       }
+      }
+     ]
+    },
+    {
+     "name": "اندرويد",
+     "en": "Android",
+     "emoji": "🤖"
+    }
+   ]
+  },
+  {
+   "name": "BLOOD STRIKE",
+   "emoji": "🩸",
+   "children": [
+    {
+     "name": "ايفون",
+     "en": "iPhone",
+     "emoji": "🍎"
+    },
+    {
+     "name": "اندرويد",
+     "en": "Android",
+     "emoji": "🤖"
+    }
+   ]
+  },
+  {
+   "name": "Oxide Survival Island",
+   "emoji": "🏝",
+   "children": [
+    {
+     "name": "ايفون",
+     "en": "iPhone",
+     "emoji": "🍎",
+     "products": [
+      {
+       "name": "اشتراك يومي",
+       "en": "Daily Subscription",
+       "prices": {
+        "egp": 200,
+        "usd": 4,
+        "sar": 15
+       }
+      },
+      {
+       "name": "اشتراك أسبوعي",
+       "en": "Weekly Subscription",
+       "prices": {
+        "egp": 600,
+        "usd": 15,
+        "sar": 55
+       }
+      },
+      {
+       "name": "اشتراك شهري",
+       "en": "Monthly Subscription",
+       "prices": {
+        "egp": 1300,
+        "usd": 30,
+        "sar": 95
+       }
+      }
+     ]
+    },
+    {
+     "name": "اندرويد",
+     "en": "Android",
+     "emoji": "🤖"
+    }
+   ]
+  },
+  {
+   "name": "CrossFire: Legends [Mobile]",
+   "emoji": "💥",
+   "children": [
+    {
+     "name": "ايفون",
+     "en": "iPhone",
+     "emoji": "🍎"
+    },
+    {
+     "name": "اندرويد",
+     "en": "Android",
+     "emoji": "🤖"
+    }
+   ]
+  },
+  {
+   "name": "Counter-Flame [CFM]",
+   "emoji": "🧨",
+   "children": [
+    {
+     "name": "ايفون",
+     "en": "iPhone",
+     "emoji": "🍎"
+    },
+    {
+     "name": "اندرويد",
+     "en": "Android",
+     "emoji": "🤖"
+    }
+   ]
+  },
+  {
+   "name": "FARLIGHT-84",
+   "emoji": "🚀",
+   "children": [
+    {
+     "name": "ايفون",
+     "en": "iPhone",
+     "emoji": "🍎"
+    },
+    {
+     "name": "اندرويد",
+     "en": "Android",
+     "emoji": "🤖"
+    }
+   ]
+  },
+  {
+   "name": "Arena Breakout",
+   "emoji": "🎒",
+   "children": [
+    {
+     "name": "ايفون",
+     "en": "iPhone",
+     "emoji": "🍎",
+     "products": [
+      {
+       "name": "اشتراك يومي",
+       "en": "Daily Subscription",
+       "prices": {
+        "egp": 200,
+        "usd": 4,
+        "sar": 15
+       }
+      },
+      {
+       "name": "اشتراك أسبوعي",
+       "en": "Weekly Subscription",
+       "prices": {
+        "egp": 600,
+        "usd": 15,
+        "sar": 55
+       }
+      },
+      {
+       "name": "اشتراك شهري",
+       "en": "Monthly Subscription",
+       "prices": {
+        "egp": 1300,
+        "usd": 30,
+        "sar": 95
+       }
+      }
+     ]
+    },
+    {
+     "name": "اندرويد",
+     "en": "Android",
+     "emoji": "🤖"
+    }
+   ]
+  },
+  {
+   "name": "Carrom Pool",
+   "emoji": "🔴",
+   "children": [
+    {
+     "name": "ايفون",
+     "en": "iPhone",
+     "emoji": "🍎"
+    },
+    {
+     "name": "اندرويد",
+     "en": "Android",
+     "emoji": "🤖"
+    }
+   ]
+  },
+  {
+   "name": "League of Legends [Wild Rift]",
+   "emoji": "🏆",
+   "children": [
+    {
+     "name": "ايفون",
+     "en": "iPhone",
+     "emoji": "🍎",
+     "products": [
+      {
+       "name": "اشتراك يومي",
+       "en": "Daily Subscription",
+       "prices": {
+        "egp": 200,
+        "usd": 4,
+        "sar": 15
+       }
+      },
+      {
+       "name": "اشتراك أسبوعي",
+       "en": "Weekly Subscription",
+       "prices": {
+        "egp": 600,
+        "usd": 15,
+        "sar": 55
+       }
+      },
+      {
+       "name": "اشتراك شهري",
+       "en": "Monthly Subscription",
+       "prices": {
+        "egp": 1300,
+        "usd": 30,
+        "sar": 95
+       }
+      }
+     ]
+    },
+    {
+     "name": "اندرويد",
+     "en": "Android",
+     "emoji": "🤖"
+    }
+   ]
+  },
+  {
+   "name": "SNAP PLUS",
+   "emoji": "👻",
+   "children": [
+    {
+     "name": "ايفون",
+     "en": "iPhone",
+     "emoji": "🍎",
+     "products": [
+      {
+       "name": "اشتراك يومي",
+       "en": "Daily Subscription",
+       "prices": {
+        "egp": 200,
+        "usd": 4,
+        "sar": 15
+       }
+      },
+      {
+       "name": "اشتراك أسبوعي",
+       "en": "Weekly Subscription",
+       "prices": {
+        "egp": 600,
+        "usd": 15,
+        "sar": 55
+       }
+      },
+      {
+       "name": "اشتراك شهري",
+       "en": "Monthly Subscription",
+       "prices": {
+        "egp": 1300,
+        "usd": 30,
+        "sar": 95
+       }
+      }
+     ]
+    },
+    {
+     "name": "اندرويد",
+     "en": "Android",
+     "emoji": "🤖"
+    }
+   ]
+  }
+ ]
+}
