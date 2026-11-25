@@ -1,0 +1,1720 @@
+{
+ "version": 5,
+ "defaults": {
+  "delivery": {
+   "ar": "بيوصلك بعد تأكيد الطلب على واتساب أو تليجرام، أو عن طريق الدفع في البوت",
+   "en": "Sent to you after the order is confirmed on WhatsApp or Telegram, or by paying in the bot"
+  },
+  "warranty": {
+   "ar": "في حالة وجود تحديثات يتم التعويض من قبل الموزع عند تجديد الاشتراك (@monkey_hack0)",
+   "en": "If there are updates, the distributor compensates when you renew the subscription (@monkey_hack0)"
+  }
+ },
+ "categories": [
+  {
+   "name": "APP PLUS STORES ( متجر بلص )",
+   "emoji": "🛒",
+   "products": [
+    {
+     "name": "اشتراك سنة",
+     "en": "1 Year Subscription",
+     "prices": {
+      "egp": 800,
+      "usd": 20,
+      "sar": 65
+     },
+     "info": {
+      "desc": {
+       "ar": "متجر تطبيقات بلس خارجي للايفون والايباد  💀\nإشتراك لمدة سنة كاملة وبدون اعلانات مزعجة علي اليوتيوب او اي تطبيق سوشيال ميديا اخر !",
+       "en": "External Plus apps store for iPhone and iPad 💀\nOne full year subscription with no annoying ads on YouTube or any other social media app!"
+      },
+      "features": {
+       "ar": "مميزات الإشتراك :\nأكثر من 4000+ تطبيق لاجهزه الايفون والايباد\nتطبيقات البلس سناب انستا ..... الخ .\nتطبيقات الأفلام والمسلسلات مجانا\nتطبيقات المونتاج والانيميشن\nتطبيقات التصاميم مدفوعة ومفتوحة المزايا\nتطبيقات محذوفة من الاب ستور\nتطبيقات مدفوعة موجوده مجانيه في المتجر\nتطبيقات الجلبريك\nتكرار التطبيقات بلا حدود مثل الواتساب\nالتوقيع التلقائي\nالعاب ببجي وكود موبايل وجميع الالعاب الاخرى.\nوالكثير من التطبيقات!",
+       "en": "Subscription features:\n4000+ apps for iPhone and iPad\nPlus apps: Snapchat, Instagram, etc.\nMovies and series apps for free\nVideo editing and animation apps\nPaid design apps with unlocked features\nApps removed from the App Store\nPaid apps available for free in the store\nJailbreak apps\nUnlimited app cloning, like WhatsApp\nAuto signing\nPUBG, Call of Duty Mobile and all other games.\nAnd many more apps!"
+      },
+      "delivery": {
+       "ar": "تفعيل فوري .",
+       "en": "Instant activation."
+      },
+      "warranty": {
+       "ar": "لمدة شهرين",
+       "en": "2 months"
+      },
+      "notes": {
+       "ar": "مهم 👇🤠\nمعاك دعم فني 24 ساعه لمساعدتك .\nيدعم جميع اصدارات ( ios ) .\nامن 100% علي جهازك .",
+       "en": "Important 👇🤠\n24/7 technical support to help you.\nSupports all iOS versions.\n100% safe for your device."
+      }
+     },
+     "photo": {
+      "path": "plus.jpg"
+     }
+    }
+   ]
+  },
+  {
+   "name": "Apple Certifications (شهادات ايفون)",
+   "emoji": "🍎",
+   "products": [
+    {
+     "name": "اشتراك سنة",
+     "en": "1 Year Subscription",
+     "prices": {
+      "egp": 700,
+      "usd": 20,
+      "sar": 60
+     },
+     "info": {
+      "desc": {
+       "ar": "اشتراك شهادة ايفون لمدة سنة كاملة",
+       "en": "iPhone certificate subscription, 1 full year"
+      },
+      "duration": {
+       "ar": "سنة كاملة",
+       "en": "1 full year"
+      },
+      "features": {
+       "ar": "شهادة للايفون لمدة سنة • تسمح بتثبيت التطبيقات خارج متجر آبل • دعم فني بعد التفعيل",
+       "en": "1 year iPhone certificate • Lets you install apps outside the App Store • Support after activation"
+      },
+      "warranty": {
+       "ar": "لمدة شهرين",
+       "en": "2 months"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "name": "PUBG Mobile",
+   "emoji": "🪖",
+   "children": [
+    {
+     "name": "PUBG Android [Non-ROOT]",
+     "emoji": "🪖",
+     "products": [
+      {
+       "name": "اشتراك يومي",
+       "en": "Daily Subscription",
+       "prices": {
+        "egp": 150,
+        "usd": 3,
+        "sar": 10
+       },
+       "info": {
+        "desc": {
+         "ar": "اشتراك PUBG لنظام اندرويد (بدون روت) لمدة يوم واحد",
+         "en": "PUBG subscription for Android (Non-ROOT), 1 day"
+        },
+        "duration": {
+         "ar": "يوم واحد",
+         "en": "1 day"
+        },
+        "features": {
+         "ar": "كشف أماكن • كشف أيتمز • كشف سيارات • كشف فريمات • تحذير نيد • أيم بوت • منظور آيباد • اخفاء تصوير • بيتحدث مع تحديثات اللعبة • دعم فني بعد التفعيل • الحماية آمنة 100%",
+         "en": "Location ESP • Items ESP • Vehicles ESP • Frames ESP • Need warning • Aimbot • iPad view • Hide recording • Updated with game updates • Support after activation • 100% safe protection"
+        }
+       }
+      },
+      {
+       "name": "اشتراك أسبوع",
+       "en": "1 Week Subscription",
+       "prices": {
+        "egp": 450,
+        "usd": 10,
+        "sar": 35
+       },
+       "info": {
+        "desc": {
+         "ar": "اشتراك PUBG لنظام اندرويد (بدون روت) لمدة 7 أيام",
+         "en": "PUBG subscription for Android (Non-ROOT), 7 days"
+        },
+        "duration": {
+         "ar": "7 أيام",
+         "en": "7 days"
+        },
+        "features": {
+         "ar": "كشف أماكن • كشف أيتمز • كشف سيارات • كشف فريمات • تحذير نيد • أيم بوت • منظور آيباد • اخفاء تصوير • بيتحدث مع تحديثات اللعبة • دعم فني بعد التفعيل • الحماية آمنة 100%",
+         "en": "Location ESP • Items ESP • Vehicles ESP • Frames ESP • Need warning • Aimbot • iPad view • Hide recording • Updated with game updates • Support after activation • 100% safe protection"
+        }
+       }
+      },
+      {
+       "name": "اشتراك أسبوعين",
+       "en": "2 Weeks Subscription",
+       "prices": {
+        "egp": 700,
+        "usd": 15,
+        "sar": 55
+       },
+       "info": {
+        "desc": {
+         "ar": "اشتراك PUBG لنظام اندرويد (بدون روت) لمدة 14 يوم",
+         "en": "PUBG subscription for Android (Non-ROOT), 14 days"
+        },
+        "duration": {
+         "ar": "14 يوم",
+         "en": "14 days"
+        },
+        "features": {
+         "ar": "كشف أماكن • كشف أيتمز • كشف سيارات • كشف فريمات • تحذير نيد • أيم بوت • منظور آيباد • اخفاء تصوير • بيتحدث مع تحديثات اللعبة • دعم فني بعد التفعيل • الحماية آمنة 100%",
+         "en": "Location ESP • Items ESP • Vehicles ESP • Frames ESP • Need warning • Aimbot • iPad view • Hide recording • Updated with game updates • Support after activation • 100% safe protection"
+        }
+       }
+      },
+      {
+       "name": "اشتراك شهر",
+       "en": "1 Month Subscription",
+       "prices": {
+        "egp": 900,
+        "usd": 20,
+        "sar": 70
+       },
+       "info": {
+        "desc": {
+         "ar": "اشتراك PUBG لنظام اندرويد (بدون روت) لمدة 30 يوم",
+         "en": "PUBG subscription for Android (Non-ROOT), 30 days"
+        },
+        "duration": {
+         "ar": "30 يوم",
+         "en": "30 days"
+        },
+        "features": {
+         "ar": "كشف أماكن • كشف أيتمز • كشف سيارات • كشف فريمات • تحذير نيد • أيم بوت • منظور آيباد • اخفاء تصوير • بيتحدث مع تحديثات اللعبة • دعم فني بعد التفعيل • الحماية آمنة 100%",
+         "en": "Location ESP • Items ESP • Vehicles ESP • Frames ESP • Need warning • Aimbot • iPad view • Hide recording • Updated with game updates • Support after activation • 100% safe protection"
+        }
+       }
+      },
+      {
+       "name": "اشتراك شهرين",
+       "en": "2 Months Subscription",
+       "prices": {
+        "egp": 1500,
+        "usd": 30,
+        "sar": 120
+       },
+       "info": {
+        "desc": {
+         "ar": "اشتراك PUBG لنظام اندرويد (بدون روت) لمدة 60 يوم",
+         "en": "PUBG subscription for Android (Non-ROOT), 60 days"
+        },
+        "duration": {
+         "ar": "60 يوم",
+         "en": "60 days"
+        },
+        "features": {
+         "ar": "كشف أماكن • كشف أيتمز • كشف سيارات • كشف فريمات • تحذير نيد • أيم بوت • منظور آيباد • اخفاء تصوير • بيتحدث مع تحديثات اللعبة • دعم فني بعد التفعيل • الحماية آمنة 100%",
+         "en": "Location ESP • Items ESP • Vehicles ESP • Frames ESP • Need warning • Aimbot • iPad view • Hide recording • Updated with game updates • Support after activation • 100% safe protection"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "name": "PUBG Android [ROOT]",
+     "emoji": "🛠",
+     "products": [
+      {
+       "name": "اشتراك يومي",
+       "en": "Daily Subscription",
+       "prices": {
+        "egp": 150,
+        "usd": 3,
+        "sar": 10
+       },
+       "info": {
+        "desc": {
+         "ar": "اشتراك PUBG لنظام اندرويد (روت) لمدة يوم واحد",
+         "en": "PUBG subscription for Android (ROOT), 1 day"
+        },
+        "duration": {
+         "ar": "يوم واحد",
+         "en": "1 day"
+        },
+        "features": {
+         "ar": "كشف أماكن (تحكم كامل) • اوبن وكڤر • كشف أيتمز • كشف سيارات • كشف فريمات • تحذير نيد • أيم بوت • منظور آيباد • اخفاء تصوير • بيتحدث مع تحديثات اللعبة • دعم فني بعد التفعيل • الحماية آمنة 100%",
+         "en": "Location ESP (full control) • Open & Cover • Items ESP • Vehicles ESP • Frames ESP • Need warning • Aimbot • iPad view • Hide recording • Updated with game updates • Support after activation • 100% safe protection"
+        }
+       }
+      },
+      {
+       "name": "اشتراك أسبوع",
+       "en": "1 Week Subscription",
+       "prices": {
+        "egp": 550,
+        "usd": 15,
+        "sar": 55
+       },
+       "info": {
+        "desc": {
+         "ar": "اشتراك PUBG لنظام اندرويد (روت) لمدة 7 أيام",
+         "en": "PUBG subscription for Android (ROOT), 7 days"
+        },
+        "duration": {
+         "ar": "7 أيام",
+         "en": "7 days"
+        },
+        "features": {
+         "ar": "كشف أماكن (تحكم كامل) • اوبن وكڤر • كشف أيتمز • كشف سيارات • كشف فريمات • تحذير نيد • أيم بوت • منظور آيباد • اخفاء تصوير • بيتحدث مع تحديثات اللعبة • دعم فني بعد التفعيل • الحماية آمنة 100%",
+         "en": "Location ESP (full control) • Open & Cover • Items ESP • Vehicles ESP • Frames ESP • Need warning • Aimbot • iPad view • Hide recording • Updated with game updates • Support after activation • 100% safe protection"
+        }
+       }
+      },
+      {
+       "name": "اشتراك شهر",
+       "en": "1 Month Subscription",
+       "prices": {
+        "egp": 1100,
+        "usd": 25,
+        "sar": 85
+       },
+       "info": {
+        "desc": {
+         "ar": "اشتراك PUBG لنظام اندرويد (روت) لمدة 30 يوم",
+         "en": "PUBG subscription for Android (ROOT), 30 days"
+        },
+        "duration": {
+         "ar": "30 يوم",
+         "en": "30 days"
+        },
+        "features": {
+         "ar": "كشف أماكن (تحكم كامل) • اوبن وكڤر • كشف أيتمز • كشف سيارات • كشف فريمات • تحذير نيد • أيم بوت • منظور آيباد • اخفاء تصوير • بيتحدث مع تحديثات اللعبة • دعم فني بعد التفعيل • الحماية آمنة 100%",
+         "en": "Location ESP (full control) • Open & Cover • Items ESP • Vehicles ESP • Frames ESP • Need warning • Aimbot • iPad view • Hide recording • Updated with game updates • Support after activation • 100% safe protection"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "name": "PUBG [IOS]",
+     "emoji": "🍏",
+     "products": [
+      {
+       "name": "اشتراك يومي",
+       "en": "Daily Subscription",
+       "prices": {
+        "egp": 200,
+        "usd": 4,
+        "sar": 15
+       },
+       "info": {
+        "desc": {
+         "ar": "اشتراك PUBG لنظام ايفون لمدة يوم واحد",
+         "en": "PUBG subscription for iPhone, 1 day"
+        },
+        "duration": {
+         "ar": "يوم واحد",
+         "en": "1 day"
+        },
+        "features": {
+         "ar": "يعمل على الايفون • بيتحدث مع تحديثات اللعبة • دعم فني بعد التفعيل • إجراءات حماية لتقليل احتمال الحظر (غير مضمونة)",
+         "en": "Works on iPhone • Updated with game updates • Support after activation • Protection measures to reduce ban risk (not guaranteed)"
+        }
+       }
+      },
+      {
+       "name": "اشتراك اسبوعي",
+       "en": "Weekly Subscription",
+       "prices": {
+        "egp": 600,
+        "usd": 15,
+        "sar": 55
+       },
+       "info": {
+        "desc": {
+         "ar": "اشتراك PUBG لنظام ايفون لمدة 7 أيام",
+         "en": "PUBG subscription for iPhone, 7 days"
+        },
+        "duration": {
+         "ar": "7 أيام",
+         "en": "7 days"
+        },
+        "features": {
+         "ar": "يعمل على الايفون • بيتحدث مع تحديثات اللعبة • دعم فني بعد التفعيل • إجراءات حماية لتقليل احتمال الحظر (غير مضمونة)",
+         "en": "Works on iPhone • Updated with game updates • Support after activation • Protection measures to reduce ban risk (not guaranteed)"
+        }
+       }
+      },
+      {
+       "name": "اشتراك شهري",
+       "en": "Monthly Subscription",
+       "prices": {
+        "egp": 1300,
+        "usd": 30,
+        "sar": 95
+       },
+       "info": {
+        "desc": {
+         "ar": "اشتراك PUBG لنظام ايفون لمدة 30 يوم",
+         "en": "PUBG subscription for iPhone, 30 days"
+        },
+        "duration": {
+         "ar": "30 يوم",
+         "en": "30 days"
+        },
+        "features": {
+         "ar": "يعمل على الايفون • بيتحدث مع تحديثات اللعبة • دعم فني بعد التفعيل • إجراءات حماية لتقليل احتمال الحظر (غير مضمونة)",
+         "en": "Works on iPhone • Updated with game updates • Support after activation • Protection measures to reduce ban risk (not guaranteed)"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "name": "PUBG EMULATOR [PC]",
+     "emoji": "💻",
+     "products": [
+      {
+       "name": "اشتراك يومي",
+       "en": "Daily Subscription",
+       "prices": {
+        "egp": 200,
+        "usd": 4,
+        "sar": 15
+       },
+       "info": {
+        "desc": {
+         "ar": "اشتراك PUBG لنظام الكمبيوتر (محاكي) لمدة يوم واحد",
+         "en": "PUBG subscription for PC (emulator), 1 day"
+        },
+        "duration": {
+         "ar": "يوم واحد",
+         "en": "1 day"
+        },
+        "features": {
+         "ar": "يعمل على محاكي الكمبيوتر • بيتحدث مع تحديثات اللعبة • دعم فني بعد التفعيل • إجراءات حماية لتقليل احتمال الحظر (غير مضمونة)",
+         "en": "Works on PC emulator • Updated with game updates • Support after activation • Protection measures to reduce ban risk (not guaranteed)"
+        }
+       }
+      },
+      {
+       "name": "اشتراك اسبوعي",
+       "en": "Weekly Subscription",
+       "prices": {
+        "egp": 600,
+        "usd": 15,
+        "sar": 55
+       },
+       "info": {
+        "desc": {
+         "ar": "اشتراك PUBG لنظام الكمبيوتر (محاكي) لمدة 7 أيام",
+         "en": "PUBG subscription for PC (emulator), 7 days"
+        },
+        "duration": {
+         "ar": "7 أيام",
+         "en": "7 days"
+        },
+        "features": {
+         "ar": "يعمل على محاكي الكمبيوتر • بيتحدث مع تحديثات اللعبة • دعم فني بعد التفعيل • إجراءات حماية لتقليل احتمال الحظر (غير مضمونة)",
+         "en": "Works on PC emulator • Updated with game updates • Support after activation • Protection measures to reduce ban risk (not guaranteed)"
+        }
+       }
+      },
+      {
+       "name": "اشتراك شهري",
+       "en": "Monthly Subscription",
+       "prices": {
+        "egp": 1200,
+        "usd": 25,
+        "sar": 85
+       },
+       "info": {
+        "desc": {
+         "ar": "اشتراك PUBG لنظام الكمبيوتر (محاكي) لمدة 30 يوم",
+         "en": "PUBG subscription for PC (emulator), 30 days"
+        },
+        "duration": {
+         "ar": "30 يوم",
+         "en": "30 days"
+        },
+        "features": {
+         "ar": "يعمل على محاكي الكمبيوتر • بيتحدث مع تحديثات اللعبة • دعم فني بعد التفعيل • إجراءات حماية لتقليل احتمال الحظر (غير مضمونة)",
+         "en": "Works on PC emulator • Updated with game updates • Support after activation • Protection measures to reduce ban risk (not guaranteed)"
+        }
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "8BALL POOL",
+   "emoji": "🎱",
+   "children": [
+    {
+     "name": "ايفون",
+     "en": "iPhone",
+     "emoji": "🍎",
+     "products": [
+      {
+       "name": "اشتراك يومي",
+       "en": "Daily Subscription",
+       "prices": {
+        "egp": 200,
+        "usd": 4,
+        "sar": 15
+       },
+       "info": {
+        "desc": {
+         "ar": "اشتراك 8BALL POOL لنظام ايفون لمدة يوم واحد",
+         "en": "8BALL POOL subscription for iPhone, 1 day"
+        },
+        "duration": {
+         "ar": "يوم واحد",
+         "en": "1 day"
+        },
+        "features": {
+         "ar": "اظهار خط التصويب بالكامل 🎯 • لعب تلقائي • بيتحدث مع تحديثات اللعبة • إجراءات حماية لتقليل احتمال الحظر (غير مضمونة) • دعم فني بعد التفعيل",
+         "en": "Full aim line display 🎯 • Auto play • Updated with game updates • Protection measures to reduce ban risk (not guaranteed) • Support after activation"
+        }
+       }
+      },
+      {
+       "name": "اشتراك اسبوعي",
+       "en": "Weekly Subscription",
+       "prices": {
+        "egp": 600,
+        "usd": 15,
+        "sar": 55
+       },
+       "info": {
+        "desc": {
+         "ar": "اشتراك 8BALL POOL لنظام ايفون لمدة 7 أيام",
+         "en": "8BALL POOL subscription for iPhone, 7 days"
+        },
+        "duration": {
+         "ar": "7 أيام",
+         "en": "7 days"
+        },
+        "features": {
+         "ar": "اظهار خط التصويب بالكامل 🎯 • لعب تلقائي • بيتحدث مع تحديثات اللعبة • إجراءات حماية لتقليل احتمال الحظر (غير مضمونة) • دعم فني بعد التفعيل",
+         "en": "Full aim line display 🎯 • Auto play • Updated with game updates • Protection measures to reduce ban risk (not guaranteed) • Support after activation"
+        }
+       }
+      },
+      {
+       "name": "اشتراك شهري",
+       "en": "Monthly Subscription",
+       "prices": {
+        "egp": 1100,
+        "usd": 25,
+        "sar": 90
+       },
+       "info": {
+        "desc": {
+         "ar": "اشتراك 8BALL POOL لنظام ايفون لمدة 30 يوم",
+         "en": "8BALL POOL subscription for iPhone, 30 days"
+        },
+        "duration": {
+         "ar": "30 يوم",
+         "en": "30 days"
+        },
+        "features": {
+         "ar": "اظهار خط التصويب بالكامل 🎯 • لعب تلقائي • بيتحدث مع تحديثات اللعبة • إجراءات حماية لتقليل احتمال الحظر (غير مضمونة) • دعم فني بعد التفعيل",
+         "en": "Full aim line display 🎯 • Auto play • Updated with game updates • Protection measures to reduce ban risk (not guaranteed) • Support after activation"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "name": "اندرويد",
+     "en": "Android",
+     "emoji": "🤖",
+     "products": [
+      {
+       "name": "اشتراك يومي",
+       "en": "Daily Subscription",
+       "prices": {
+        "egp": 200,
+        "usd": 4,
+        "sar": 15
+       },
+       "info": {
+        "desc": {
+         "ar": "اشتراك 8BALL POOL لنظام اندرويد لمدة يوم واحد",
+         "en": "8BALL POOL subscription for Android, 1 day"
+        },
+        "duration": {
+         "ar": "يوم واحد",
+         "en": "1 day"
+        },
+        "features": {
+         "ar": "اظهار خط التصويب بالكامل 🎯 • لعب تلقائي • بيتحدث مع تحديثات اللعبة • إجراءات حماية لتقليل احتمال الحظر (غير مضمونة) • دعم فني بعد التفعيل",
+         "en": "Full aim line display 🎯 • Auto play • Updated with game updates • Protection measures to reduce ban risk (not guaranteed) • Support after activation"
+        }
+       }
+      },
+      {
+       "name": "اشتراك اسبوعي",
+       "en": "Weekly Subscription",
+       "prices": {
+        "egp": 600,
+        "usd": 15,
+        "sar": 55
+       },
+       "info": {
+        "desc": {
+         "ar": "اشتراك 8BALL POOL لنظام اندرويد لمدة 7 أيام",
+         "en": "8BALL POOL subscription for Android, 7 days"
+        },
+        "duration": {
+         "ar": "7 أيام",
+         "en": "7 days"
+        },
+        "features": {
+         "ar": "اظهار خط التصويب بالكامل 🎯 • لعب تلقائي • بيتحدث مع تحديثات اللعبة • إجراءات حماية لتقليل احتمال الحظر (غير مضمونة) • دعم فني بعد التفعيل",
+         "en": "Full aim line display 🎯 • Auto play • Updated with game updates • Protection measures to reduce ban risk (not guaranteed) • Support after activation"
+        }
+       }
+      },
+      {
+       "name": "اشتراك شهري",
+       "en": "Monthly Subscription",
+       "prices": {
+        "egp": 1100,
+        "usd": 25,
+        "sar": 90
+       },
+       "info": {
+        "desc": {
+         "ar": "اشتراك 8BALL POOL لنظام اندرويد لمدة 30 يوم",
+         "en": "8BALL POOL subscription for Android, 30 days"
+        },
+        "duration": {
+         "ar": "30 يوم",
+         "en": "30 days"
+        },
+        "features": {
+         "ar": "اظهار خط التصويب بالكامل 🎯 • لعب تلقائي • بيتحدث مع تحديثات اللعبة • إجراءات حماية لتقليل احتمال الحظر (غير مضمونة) • دعم فني بعد التفعيل",
+         "en": "Full aim line display 🎯 • Auto play • Updated with game updates • Protection measures to reduce ban risk (not guaranteed) • Support after activation"
+        }
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "DELTA FORCE [DFM]",
+   "emoji": "🎖",
+   "children": [
+    {
+     "name": "اندرويد",
+     "en": "Android",
+     "emoji": "🤖",
+     "products": [
+      {
+       "name": "اشتراك يومي",
+       "en": "Daily Subscription",
+       "prices": {
+        "egp": 150,
+        "usd": 3,
+        "sar": 10
+       },
+       "info": {
+        "desc": {
+         "ar": "اشتراك DELTA FORCE لنظام اندرويد لمدة يوم واحد",
+         "en": "DELTA FORCE subscription for Android, 1 day"
+        },
+        "duration": {
+         "ar": "يوم واحد",
+         "en": "1 day"
+        },
+        "features": {
+         "ar": "يعمل على الاندرويد • بيتحدث مع تحديثات اللعبة • دعم فني بعد التفعيل • إجراءات حماية لتقليل احتمال الحظر (غير مضمونة)",
+         "en": "Works on Android • Updated with game updates • Support after activation • Protection measures to reduce ban risk (not guaranteed)"
+        }
+       }
+      },
+      {
+       "name": "اشتراك أسبوع",
+       "en": "1 Week Subscription",
+       "prices": {
+        "egp": 450,
+        "usd": 10,
+        "sar": 35
+       },
+       "info": {
+        "desc": {
+         "ar": "اشتراك DELTA FORCE لنظام اندرويد لمدة 7 أيام",
+         "en": "DELTA FORCE subscription for Android, 7 days"
+        },
+        "duration": {
+         "ar": "7 أيام",
+         "en": "7 days"
+        },
+        "features": {
+         "ar": "يعمل على الاندرويد • بيتحدث مع تحديثات اللعبة • دعم فني بعد التفعيل • إجراءات حماية لتقليل احتمال الحظر (غير مضمونة)",
+         "en": "Works on Android • Updated with game updates • Support after activation • Protection measures to reduce ban risk (not guaranteed)"
+        }
+       }
+      },
+      {
+       "name": "اشتراك أسبوعين",
+       "en": "2 Weeks Subscription",
+       "prices": {
+        "egp": 700,
+        "usd": 15,
+        "sar": 55
+       },
+       "info": {
+        "desc": {
+         "ar": "اشتراك DELTA FORCE لنظام اندرويد لمدة 14 يوم",
+         "en": "DELTA FORCE subscription for Android, 14 days"
+        },
+        "duration": {
+         "ar": "14 يوم",
+         "en": "14 days"
+        },
+        "features": {
+         "ar": "يعمل على الاندرويد • بيتحدث مع تحديثات اللعبة • دعم فني بعد التفعيل • إجراءات حماية لتقليل احتمال الحظر (غير مضمونة)",
+         "en": "Works on Android • Updated with game updates • Support after activation • Protection measures to reduce ban risk (not guaranteed)"
+        }
+       }
+      },
+      {
+       "name": "اشتراك شهر",
+       "en": "1 Month Subscription",
+       "prices": {
+        "egp": 900,
+        "usd": 20,
+        "sar": 70
+       },
+       "info": {
+        "desc": {
+         "ar": "اشتراك DELTA FORCE لنظام اندرويد لمدة 30 يوم",
+         "en": "DELTA FORCE subscription for Android, 30 days"
+        },
+        "duration": {
+         "ar": "30 يوم",
+         "en": "30 days"
+        },
+        "features": {
+         "ar": "يعمل على الاندرويد • بيتحدث مع تحديثات اللعبة • دعم فني بعد التفعيل • إجراءات حماية لتقليل احتمال الحظر (غير مضمونة)",
+         "en": "Works on Android • Updated with game updates • Support after activation • Protection measures to reduce ban risk (not guaranteed)"
+        }
+       }
+      },
+      {
+       "name": "اشتراك شهرين",
+       "en": "2 Months Subscription",
+       "prices": {
+        "egp": 1500,
+        "usd": 30,
+        "sar": 120
+       },
+       "info": {
+        "desc": {
+         "ar": "اشتراك DELTA FORCE لنظام اندرويد لمدة 60 يوم",
+         "en": "DELTA FORCE subscription for Android, 60 days"
+        },
+        "duration": {
+         "ar": "60 يوم",
+         "en": "60 days"
+        },
+        "features": {
+         "ar": "يعمل على الاندرويد • بيتحدث مع تحديثات اللعبة • دعم فني بعد التفعيل • إجراءات حماية لتقليل احتمال الحظر (غير مضمونة)",
+         "en": "Works on Android • Updated with game updates • Support after activation • Protection measures to reduce ban risk (not guaranteed)"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "name": "ايفون",
+     "en": "iPhone",
+     "emoji": "🍎",
+     "products": [
+      {
+       "name": "اشتراك يومي",
+       "en": "Daily Subscription",
+       "prices": {
+        "egp": 200,
+        "usd": 4,
+        "sar": 15
+       },
+       "info": {
+        "desc": {
+         "ar": "اشتراك DELTA FORCE لنظام ايفون لمدة يوم واحد",
+         "en": "DELTA FORCE subscription for iPhone, 1 day"
+        },
+        "duration": {
+         "ar": "يوم واحد",
+         "en": "1 day"
+        },
+        "features": {
+         "ar": "يعمل على الايفون • بيتحدث مع تحديثات اللعبة • دعم فني بعد التفعيل • إجراءات حماية لتقليل احتمال الحظر (غير مضمونة)",
+         "en": "Works on iPhone • Updated with game updates • Support after activation • Protection measures to reduce ban risk (not guaranteed)"
+        }
+       }
+      },
+      {
+       "name": "اشتراك اسبوعي",
+       "en": "Weekly Subscription",
+       "prices": {
+        "egp": 600,
+        "usd": 15,
+        "sar": 55
+       },
+       "info": {
+        "desc": {
+         "ar": "اشتراك DELTA FORCE لنظام ايفون لمدة 7 أيام",
+         "en": "DELTA FORCE subscription for iPhone, 7 days"
+        },
+        "duration": {
+         "ar": "7 أيام",
+         "en": "7 days"
+        },
+        "features": {
+         "ar": "يعمل على الايفون • بيتحدث مع تحديثات اللعبة • دعم فني بعد التفعيل • إجراءات حماية لتقليل احتمال الحظر (غير مضمونة)",
+         "en": "Works on iPhone • Updated with game updates • Support after activation • Protection measures to reduce ban risk (not guaranteed)"
+        }
+       }
+      },
+      {
+       "name": "اشتراك شهري",
+       "en": "Monthly Subscription",
+       "prices": {
+        "egp": 1100,
+        "usd": 25,
+        "sar": 90
+       },
+       "info": {
+        "desc": {
+         "ar": "اشتراك DELTA FORCE لنظام ايفون لمدة 30 يوم",
+         "en": "DELTA FORCE subscription for iPhone, 30 days"
+        },
+        "duration": {
+         "ar": "30 يوم",
+         "en": "30 days"
+        },
+        "features": {
+         "ar": "يعمل على الايفون • بيتحدث مع تحديثات اللعبة • دعم فني بعد التفعيل • إجراءات حماية لتقليل احتمال الحظر (غير مضمونة)",
+         "en": "Works on iPhone • Updated with game updates • Support after activation • Protection measures to reduce ban risk (not guaranteed)"
+        }
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Mobile Legends [MLBB]",
+   "emoji": "⚔",
+   "children": [
+    {
+     "name": "ايفون",
+     "en": "iPhone",
+     "emoji": "🍎",
+     "products": [
+      {
+       "name": "اشتراك يومي",
+       "en": "Daily Subscription",
+       "prices": {
+        "egp": 200,
+        "usd": 4,
+        "sar": 15
+       },
+       "info": {
+        "desc": {
+         "ar": "اشتراك Mobile Legends لنظام ايفون لمدة يوم واحد",
+         "en": "Mobile Legends subscription for iPhone, 1 day"
+        },
+        "duration": {
+         "ar": "يوم واحد",
+         "en": "1 day"
+        },
+        "features": {
+         "ar": "يعمل على الايفون • بيتحدث مع تحديثات اللعبة • دعم فني بعد التفعيل • إجراءات حماية لتقليل احتمال الحظر (غير مضمونة)",
+         "en": "Works on iPhone • Updated with game updates • Support after activation • Protection measures to reduce ban risk (not guaranteed)"
+        }
+       }
+      },
+      {
+       "name": "اشتراك اسبوعي",
+       "en": "Weekly Subscription",
+       "prices": {
+        "egp": 600,
+        "usd": 15,
+        "sar": 55
+       },
+       "info": {
+        "desc": {
+         "ar": "اشتراك Mobile Legends لنظام ايفون لمدة 7 أيام",
+         "en": "Mobile Legends subscription for iPhone, 7 days"
+        },
+        "duration": {
+         "ar": "7 أيام",
+         "en": "7 days"
+        },
+        "features": {
+         "ar": "يعمل على الايفون • بيتحدث مع تحديثات اللعبة • دعم فني بعد التفعيل • إجراءات حماية لتقليل احتمال الحظر (غير مضمونة)",
+         "en": "Works on iPhone • Updated with game updates • Support after activation • Protection measures to reduce ban risk (not guaranteed)"
+        }
+       }
+      },
+      {
+       "name": "اشتراك شهري",
+       "en": "Monthly Subscription",
+       "prices": {
+        "egp": 1100,
+        "usd": 25,
+        "sar": 90
+       },
+       "info": {
+        "desc": {
+         "ar": "اشتراك Mobile Legends لنظام ايفون لمدة 30 يوم",
+         "en": "Mobile Legends subscription for iPhone, 30 days"
+        },
+        "duration": {
+         "ar": "30 يوم",
+         "en": "30 days"
+        },
+        "features": {
+         "ar": "يعمل على الايفون • بيتحدث مع تحديثات اللعبة • دعم فني بعد التفعيل • إجراءات حماية لتقليل احتمال الحظر (غير مضمونة)",
+         "en": "Works on iPhone • Updated with game updates • Support after activation • Protection measures to reduce ban risk (not guaranteed)"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "name": "اندرويد",
+     "en": "Android",
+     "emoji": "🤖"
+    }
+   ]
+  },
+  {
+   "name": "CALL OF DUTY MOBILE [CODM]",
+   "emoji": "🔫",
+   "children": [
+    {
+     "name": "اندرويد",
+     "en": "Android",
+     "emoji": "🤖",
+     "products": [
+      {
+       "name": "اشتراك يومي",
+       "en": "Daily Subscription",
+       "prices": {
+        "egp": 150,
+        "usd": 3,
+        "sar": 10
+       },
+       "info": {
+        "desc": {
+         "ar": "اشتراك Call of Duty Mobile لنظام اندرويد لمدة يوم واحد",
+         "en": "Call of Duty Mobile subscription for Android, 1 day"
+        },
+        "duration": {
+         "ar": "يوم واحد",
+         "en": "1 day"
+        },
+        "features": {
+         "ar": "يعمل على الاندرويد • بيتحدث مع تحديثات اللعبة • دعم فني بعد التفعيل • إجراءات حماية لتقليل احتمال الحظر (غير مضمونة)",
+         "en": "Works on Android • Updated with game updates • Support after activation • Protection measures to reduce ban risk (not guaranteed)"
+        }
+       }
+      },
+      {
+       "name": "اشتراك أسبوع",
+       "en": "1 Week Subscription",
+       "prices": {
+        "egp": 450,
+        "usd": 10,
+        "sar": 35
+       },
+       "info": {
+        "desc": {
+         "ar": "اشتراك Call of Duty Mobile لنظام اندرويد لمدة 7 أيام",
+         "en": "Call of Duty Mobile subscription for Android, 7 days"
+        },
+        "duration": {
+         "ar": "7 أيام",
+         "en": "7 days"
+        },
+        "features": {
+         "ar": "يعمل على الاندرويد • بيتحدث مع تحديثات اللعبة • دعم فني بعد التفعيل • إجراءات حماية لتقليل احتمال الحظر (غير مضمونة)",
+         "en": "Works on Android • Updated with game updates • Support after activation • Protection measures to reduce ban risk (not guaranteed)"
+        }
+       }
+      },
+      {
+       "name": "اشتراك شهر",
+       "en": "1 Month Subscription",
+       "prices": {
+        "egp": 900,
+        "usd": 20,
+        "sar": 70
+       },
+       "info": {
+        "desc": {
+         "ar": "اشتراك Call of Duty Mobile لنظام اندرويد لمدة 30 يوم",
+         "en": "Call of Duty Mobile subscription for Android, 30 days"
+        },
+        "duration": {
+         "ar": "30 يوم",
+         "en": "30 days"
+        },
+        "features": {
+         "ar": "يعمل على الاندرويد • بيتحدث مع تحديثات اللعبة • دعم فني بعد التفعيل • إجراءات حماية لتقليل احتمال الحظر (غير مضمونة)",
+         "en": "Works on Android • Updated with game updates • Support after activation • Protection measures to reduce ban risk (not guaranteed)"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "name": "ايفون",
+     "en": "iPhone",
+     "emoji": "🍎",
+     "products": [
+      {
+       "name": "اشتراك يومي",
+       "en": "Daily Subscription",
+       "prices": {
+        "egp": 200,
+        "usd": 4,
+        "sar": 15
+       },
+       "info": {
+        "desc": {
+         "ar": "اشتراك Call of Duty Mobile لنظام ايفون لمدة يوم واحد",
+         "en": "Call of Duty Mobile subscription for iPhone, 1 day"
+        },
+        "duration": {
+         "ar": "يوم واحد",
+         "en": "1 day"
+        },
+        "features": {
+         "ar": "يعمل على الايفون • بيتحدث مع تحديثات اللعبة • دعم فني بعد التفعيل • إجراءات حماية لتقليل احتمال الحظر (غير مضمونة)",
+         "en": "Works on iPhone • Updated with game updates • Support after activation • Protection measures to reduce ban risk (not guaranteed)"
+        }
+       }
+      },
+      {
+       "name": "اشتراك اسبوعي",
+       "en": "Weekly Subscription",
+       "prices": {
+        "egp": 600,
+        "usd": 15,
+        "sar": 55
+       },
+       "info": {
+        "desc": {
+         "ar": "اشتراك Call of Duty Mobile لنظام ايفون لمدة 7 أيام",
+         "en": "Call of Duty Mobile subscription for iPhone, 7 days"
+        },
+        "duration": {
+         "ar": "7 أيام",
+         "en": "7 days"
+        },
+        "features": {
+         "ar": "يعمل على الايفون • بيتحدث مع تحديثات اللعبة • دعم فني بعد التفعيل • إجراءات حماية لتقليل احتمال الحظر (غير مضمونة)",
+         "en": "Works on iPhone • Updated with game updates • Support after activation • Protection measures to reduce ban risk (not guaranteed)"
+        }
+       }
+      },
+      {
+       "name": "اشتراك شهري",
+       "en": "Monthly Subscription",
+       "prices": {
+        "egp": 1100,
+        "usd": 25,
+        "sar": 90
+       },
+       "info": {
+        "desc": {
+         "ar": "اشتراك Call of Duty Mobile لنظام ايفون لمدة 30 يوم",
+         "en": "Call of Duty Mobile subscription for iPhone, 30 days"
+        },
+        "duration": {
+         "ar": "30 يوم",
+         "en": "30 days"
+        },
+        "features": {
+         "ar": "يعمل على الايفون • بيتحدث مع تحديثات اللعبة • دعم فني بعد التفعيل • إجراءات حماية لتقليل احتمال الحظر (غير مضمونة)",
+         "en": "Works on iPhone • Updated with game updates • Support after activation • Protection measures to reduce ban risk (not guaranteed)"
+        }
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "FreeFire",
+   "emoji": "🔥",
+   "children": [
+    {
+     "name": "اندرويد",
+     "en": "Android",
+     "emoji": "🤖",
+     "products": [
+      {
+       "name": "اشتراك يومي",
+       "en": "Daily Subscription",
+       "prices": {
+        "egp": 150,
+        "usd": 3,
+        "sar": 10
+       },
+       "info": {
+        "desc": {
+         "ar": "اشتراك FreeFire لنظام اندرويد لمدة يوم واحد",
+         "en": "FreeFire subscription for Android, 1 day"
+        },
+        "duration": {
+         "ar": "يوم واحد",
+         "en": "1 day"
+        },
+        "features": {
+         "ar": "يعمل على الاندرويد • بيتحدث مع تحديثات اللعبة • دعم فني بعد التفعيل • إجراءات حماية لتقليل احتمال الحظر (غير مضمونة)",
+         "en": "Works on Android • Updated with game updates • Support after activation • Protection measures to reduce ban risk (not guaranteed)"
+        }
+       }
+      },
+      {
+       "name": "اشتراك أسبوع",
+       "en": "1 Week Subscription",
+       "prices": {
+        "egp": 450,
+        "usd": 10,
+        "sar": 35
+       },
+       "info": {
+        "desc": {
+         "ar": "اشتراك FreeFire لنظام اندرويد لمدة 7 أيام",
+         "en": "FreeFire subscription for Android, 7 days"
+        },
+        "duration": {
+         "ar": "7 أيام",
+         "en": "7 days"
+        },
+        "features": {
+         "ar": "يعمل على الاندرويد • بيتحدث مع تحديثات اللعبة • دعم فني بعد التفعيل • إجراءات حماية لتقليل احتمال الحظر (غير مضمونة)",
+         "en": "Works on Android • Updated with game updates • Support after activation • Protection measures to reduce ban risk (not guaranteed)"
+        }
+       }
+      },
+      {
+       "name": "اشتراك شهر",
+       "en": "1 Month Subscription",
+       "prices": {
+        "egp": 900,
+        "usd": 20,
+        "sar": 70
+       },
+       "info": {
+        "desc": {
+         "ar": "اشتراك FreeFire لنظام اندرويد لمدة 30 يوم",
+         "en": "FreeFire subscription for Android, 30 days"
+        },
+        "duration": {
+         "ar": "30 يوم",
+         "en": "30 days"
+        },
+        "features": {
+         "ar": "يعمل على الاندرويد • بيتحدث مع تحديثات اللعبة • دعم فني بعد التفعيل • إجراءات حماية لتقليل احتمال الحظر (غير مضمونة)",
+         "en": "Works on Android • Updated with game updates • Support after activation • Protection measures to reduce ban risk (not guaranteed)"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "name": "ايفون",
+     "en": "iPhone",
+     "emoji": "🍎",
+     "products": [
+      {
+       "name": "اشتراك يومي",
+       "en": "Daily Subscription",
+       "prices": {
+        "egp": 200,
+        "usd": 4,
+        "sar": 15
+       },
+       "info": {
+        "desc": {
+         "ar": "اشتراك FreeFire لنظام ايفون لمدة يوم واحد",
+         "en": "FreeFire subscription for iPhone, 1 day"
+        },
+        "duration": {
+         "ar": "يوم واحد",
+         "en": "1 day"
+        },
+        "features": {
+         "ar": "يعمل على الايفون • بيتحدث مع تحديثات اللعبة • دعم فني بعد التفعيل • إجراءات حماية لتقليل احتمال الحظر (غير مضمونة)",
+         "en": "Works on iPhone • Updated with game updates • Support after activation • Protection measures to reduce ban risk (not guaranteed)"
+        }
+       }
+      },
+      {
+       "name": "اشتراك اسبوعي",
+       "en": "Weekly Subscription",
+       "prices": {
+        "egp": 600,
+        "usd": 15,
+        "sar": 55
+       },
+       "info": {
+        "desc": {
+         "ar": "اشتراك FreeFire لنظام ايفون لمدة 7 أيام",
+         "en": "FreeFire subscription for iPhone, 7 days"
+        },
+        "duration": {
+         "ar": "7 أيام",
+         "en": "7 days"
+        },
+        "features": {
+         "ar": "يعمل على الايفون • بيتحدث مع تحديثات اللعبة • دعم فني بعد التفعيل • إجراءات حماية لتقليل احتمال الحظر (غير مضمونة)",
+         "en": "Works on iPhone • Updated with game updates • Support after activation • Protection measures to reduce ban risk (not guaranteed)"
+        }
+       }
+      },
+      {
+       "name": "اشتراك شهري",
+       "en": "Monthly Subscription",
+       "prices": {
+        "egp": 1100,
+        "usd": 25,
+        "sar": 90
+       },
+       "info": {
+        "desc": {
+         "ar": "اشتراك FreeFire لنظام ايفون لمدة 30 يوم",
+         "en": "FreeFire subscription for iPhone, 30 days"
+        },
+        "duration": {
+         "ar": "30 يوم",
+         "en": "30 days"
+        },
+        "features": {
+         "ar": "يعمل على الايفون • بيتحدث مع تحديثات اللعبة • دعم فني بعد التفعيل • إجراءات حماية لتقليل احتمال الحظر (غير مضمونة)",
+         "en": "Works on iPhone • Updated with game updates • Support after activation • Protection measures to reduce ban risk (not guaranteed)"
+        }
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "VALORANT",
+   "emoji": "🎯",
+   "children": [
+    {
+     "name": "ايفون",
+     "en": "iPhone",
+     "emoji": "🍎",
+     "products": [
+      {
+       "name": "اشتراك يومي",
+       "en": "Daily Subscription",
+       "prices": {
+        "egp": 200,
+        "usd": 4,
+        "sar": 15
+       },
+       "info": {
+        "desc": {
+         "ar": "اشتراك VALORANT لنظام ايفون لمدة يوم واحد",
+         "en": "VALORANT subscription for iPhone, 1 day"
+        },
+        "duration": {
+         "ar": "يوم واحد",
+         "en": "1 day"
+        },
+        "features": {
+         "ar": "يعمل على الايفون • بيتحدث مع تحديثات اللعبة • دعم فني بعد التفعيل • إجراءات حماية لتقليل احتمال الحظر (غير مضمونة)",
+         "en": "Works on iPhone • Updated with game updates • Support after activation • Protection measures to reduce ban risk (not guaranteed)"
+        }
+       }
+      },
+      {
+       "name": "اشتراك أسبوعي",
+       "en": "Weekly Subscription",
+       "prices": {
+        "egp": 600,
+        "usd": 15,
+        "sar": 55
+       },
+       "info": {
+        "desc": {
+         "ar": "اشتراك VALORANT لنظام ايفون لمدة 7 أيام",
+         "en": "VALORANT subscription for iPhone, 7 days"
+        },
+        "duration": {
+         "ar": "7 أيام",
+         "en": "7 days"
+        },
+        "features": {
+         "ar": "يعمل على الايفون • بيتحدث مع تحديثات اللعبة • دعم فني بعد التفعيل • إجراءات حماية لتقليل احتمال الحظر (غير مضمونة)",
+         "en": "Works on iPhone • Updated with game updates • Support after activation • Protection measures to reduce ban risk (not guaranteed)"
+        }
+       }
+      },
+      {
+       "name": "اشتراك شهري",
+       "en": "Monthly Subscription",
+       "prices": {
+        "egp": 1300,
+        "usd": 30,
+        "sar": 95
+       },
+       "info": {
+        "desc": {
+         "ar": "اشتراك VALORANT لنظام ايفون لمدة 30 يوم",
+         "en": "VALORANT subscription for iPhone, 30 days"
+        },
+        "duration": {
+         "ar": "30 يوم",
+         "en": "30 days"
+        },
+        "features": {
+         "ar": "يعمل على الايفون • بيتحدث مع تحديثات اللعبة • دعم فني بعد التفعيل • إجراءات حماية لتقليل احتمال الحظر (غير مضمونة)",
+         "en": "Works on iPhone • Updated with game updates • Support after activation • Protection measures to reduce ban risk (not guaranteed)"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "name": "اندرويد",
+     "en": "Android",
+     "emoji": "🤖"
+    }
+   ]
+  },
+  {
+   "name": "BLOOD STRIKE",
+   "emoji": "🩸",
+   "children": [
+    {
+     "name": "ايفون",
+     "en": "iPhone",
+     "emoji": "🍎"
+    },
+    {
+     "name": "اندرويد",
+     "en": "Android",
+     "emoji": "🤖"
+    }
+   ]
+  },
+  {
+   "name": "Oxide Survival Island",
+   "emoji": "🏝",
+   "children": [
+    {
+     "name": "ايفون",
+     "en": "iPhone",
+     "emoji": "🍎",
+     "products": [
+      {
+       "name": "اشتراك يومي",
+       "en": "Daily Subscription",
+       "prices": {
+        "egp": 200,
+        "usd": 4,
+        "sar": 15
+       },
+       "info": {
+        "desc": {
+         "ar": "اشتراك Oxide Survival Island لنظام ايفون لمدة يوم واحد",
+         "en": "Oxide Survival Island subscription for iPhone, 1 day"
+        },
+        "duration": {
+         "ar": "يوم واحد",
+         "en": "1 day"
+        },
+        "features": {
+         "ar": "يعمل على الايفون • بيتحدث مع تحديثات اللعبة • دعم فني بعد التفعيل • إجراءات حماية لتقليل احتمال الحظر (غير مضمونة)",
+         "en": "Works on iPhone • Updated with game updates • Support after activation • Protection measures to reduce ban risk (not guaranteed)"
+        }
+       }
+      },
+      {
+       "name": "اشتراك أسبوعي",
+       "en": "Weekly Subscription",
+       "prices": {
+        "egp": 600,
+        "usd": 15,
+        "sar": 55
+       },
+       "info": {
+        "desc": {
+         "ar": "اشتراك Oxide Survival Island لنظام ايفون لمدة 7 أيام",
+         "en": "Oxide Survival Island subscription for iPhone, 7 days"
+        },
+        "duration": {
+         "ar": "7 أيام",
+         "en": "7 days"
+        },
+        "features": {
+         "ar": "يعمل على الايفون • بيتحدث مع تحديثات اللعبة • دعم فني بعد التفعيل • إجراءات حماية لتقليل احتمال الحظر (غير مضمونة)",
+         "en": "Works on iPhone • Updated with game updates • Support after activation • Protection measures to reduce ban risk (not guaranteed)"
+        }
+       }
+      },
+      {
+       "name": "اشتراك شهري",
+       "en": "Monthly Subscription",
+       "prices": {
+        "egp": 1300,
+        "usd": 30,
+        "sar": 95
+       },
+       "info": {
+        "desc": {
+         "ar": "اشتراك Oxide Survival Island لنظام ايفون لمدة 30 يوم",
+         "en": "Oxide Survival Island subscription for iPhone, 30 days"
+        },
+        "duration": {
+         "ar": "30 يوم",
+         "en": "30 days"
+        },
+        "features": {
+         "ar": "يعمل على الايفون • بيتحدث مع تحديثات اللعبة • دعم فني بعد التفعيل • إجراءات حماية لتقليل احتمال الحظر (غير مضمونة)",
+         "en": "Works on iPhone • Updated with game updates • Support after activation • Protection measures to reduce ban risk (not guaranteed)"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "name": "اندرويد",
+     "en": "Android",
+     "emoji": "🤖"
+    }
+   ]
+  },
+  {
+   "name": "CrossFire: Legends [Mobile]",
+   "emoji": "💥",
+   "children": [
+    {
+     "name": "ايفون",
+     "en": "iPhone",
+     "emoji": "🍎"
+    },
+    {
+     "name": "اندرويد",
+     "en": "Android",
+     "emoji": "🤖"
+    }
+   ]
+  },
+  {
+   "name": "Counter-Flame [CFM]",
+   "emoji": "🧨",
+   "children": [
+    {
+     "name": "ايفون",
+     "en": "iPhone",
+     "emoji": "🍎"
+    },
+    {
+     "name": "اندرويد",
+     "en": "Android",
+     "emoji": "🤖"
+    }
+   ]
+  },
+  {
+   "name": "FARLIGHT-84",
+   "emoji": "🚀",
+   "children": [
+    {
+     "name": "ايفون",
+     "en": "iPhone",
+     "emoji": "🍎"
+    },
+    {
+     "name": "اندرويد",
+     "en": "Android",
+     "emoji": "🤖"
+    }
+   ]
+  },
+  {
+   "name": "Arena Breakout",
+   "emoji": "🎒",
+   "children": [
+    {
+     "name": "ايفون",
+     "en": "iPhone",
+     "emoji": "🍎",
+     "products": [
+      {
+       "name": "اشتراك يومي",
+       "en": "Daily Subscription",
+       "prices": {
+        "egp": 200,
+        "usd": 4,
+        "sar": 15
+       },
+       "info": {
+        "desc": {
+         "ar": "اشتراك Arena Breakout لنظام ايفون لمدة يوم واحد",
+         "en": "Arena Breakout subscription for iPhone, 1 day"
+        },
+        "duration": {
+         "ar": "يوم واحد",
+         "en": "1 day"
+        },
+        "features": {
+         "ar": "يعمل على الايفون • بيتحدث مع تحديثات اللعبة • دعم فني بعد التفعيل • إجراءات حماية لتقليل احتمال الحظر (غير مضمونة)",
+         "en": "Works on iPhone • Updated with game updates • Support after activation • Protection measures to reduce ban risk (not guaranteed)"
+        }
+       }
+      },
+      {
+       "name": "اشتراك أسبوعي",
+       "en": "Weekly Subscription",
+       "prices": {
+        "egp": 600,
+        "usd": 15,
+        "sar": 55
+       },
+       "info": {
+        "desc": {
+         "ar": "اشتراك Arena Breakout لنظام ايفون لمدة 7 أيام",
+         "en": "Arena Breakout subscription for iPhone, 7 days"
+        },
+        "duration": {
+         "ar": "7 أيام",
+         "en": "7 days"
+        },
+        "features": {
+         "ar": "يعمل على الايفون • بيتحدث مع تحديثات اللعبة • دعم فني بعد التفعيل • إجراءات حماية لتقليل احتمال الحظر (غير مضمونة)",
+         "en": "Works on iPhone • Updated with game updates • Support after activation • Protection measures to reduce ban risk (not guaranteed)"
+        }
+       }
+      },
+      {
+       "name": "اشتراك شهري",
+       "en": "Monthly Subscription",
+       "prices": {
+        "egp": 1300,
+        "usd": 30,
+        "sar": 95
+       },
+       "info": {
+        "desc": {
+         "ar": "اشتراك Arena Breakout لنظام ايفون لمدة 30 يوم",
+         "en": "Arena Breakout subscription for iPhone, 30 days"
+        },
+        "duration": {
+         "ar": "30 يوم",
+         "en": "30 days"
+        },
+        "features": {
+         "ar": "يعمل على الايفون • بيتحدث مع تحديثات اللعبة • دعم فني بعد التفعيل • إجراءات حماية لتقليل احتمال الحظر (غير مضمونة)",
+         "en": "Works on iPhone • Updated with game updates • Support after activation • Protection measures to reduce ban risk (not guaranteed)"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "name": "اندرويد",
+     "en": "Android",
+     "emoji": "🤖"
+    }
+   ]
+  },
+  {
+   "name": "Carrom Pool",
+   "emoji": "🔴",
+   "children": [
+    {
+     "name": "ايفون",
+     "en": "iPhone",
+     "emoji": "🍎"
+    },
+    {
+     "name": "اندرويد",
+     "en": "Android",
+     "emoji": "🤖"
+    }
+   ]
+  },
+  {
+   "name": "League of Legends [Wild Rift]",
+   "emoji": "🏆",
+   "children": [
+    {
+     "name": "ايفون",
+     "en": "iPhone",
+     "emoji": "🍎",
+     "products": [
+      {
+       "name": "اشتراك يومي",
+       "en": "Daily Subscription",
+       "prices": {
+        "egp": 200,
+        "usd": 4,
+        "sar": 15
+       },
+       "info": {
+        "desc": {
+         "ar": "اشتراك Wild Rift لنظام ايفون لمدة يوم واحد",
+         "en": "Wild Rift subscription for iPhone, 1 day"
+        },
+        "duration": {
+         "ar": "يوم واحد",
+         "en": "1 day"
+        },
+        "features": {
+         "ar": "يعمل على الايفون • بيتحدث مع تحديثات اللعبة • دعم فني بعد التفعيل • إجراءات حماية لتقليل احتمال الحظر (غير مضمونة)",
+         "en": "Works on iPhone • Updated with game updates • Support after activation • Protection measures to reduce ban risk (not guaranteed)"
+        }
+       }
+      },
+      {
+       "name": "اشتراك أسبوعي",
+       "en": "Weekly Subscription",
+       "prices": {
+        "egp": 600,
+        "usd": 15,
+        "sar": 55
+       },
+       "info": {
+        "desc": {
+         "ar": "اشتراك Wild Rift لنظام ايفون لمدة 7 أيام",
+         "en": "Wild Rift subscription for iPhone, 7 days"
+        },
+        "duration": {
+         "ar": "7 أيام",
+         "en": "7 days"
+        },
+        "features": {
+         "ar": "يعمل على الايفون • بيتحدث مع تحديثات اللعبة • دعم فني بعد التفعيل • إجراءات حماية لتقليل احتمال الحظر (غير مضمونة)",
+         "en": "Works on iPhone • Updated with game updates • Support after activation • Protection measures to reduce ban risk (not guaranteed)"
+        }
+       }
+      },
+      {
+       "name": "اشتراك شهري",
+       "en": "Monthly Subscription",
+       "prices": {
+        "egp": 1300,
+        "usd": 30,
+        "sar": 95
+       },
+       "info": {
+        "desc": {
+         "ar": "اشتراك Wild Rift لنظام ايفون لمدة 30 يوم",
+         "en": "Wild Rift subscription for iPhone, 30 days"
+        },
+        "duration": {
+         "ar": "30 يوم",
+         "en": "30 days"
+        },
+        "features": {
+         "ar": "يعمل على الايفون • بيتحدث مع تحديثات اللعبة • دعم فني بعد التفعيل • إجراءات حماية لتقليل احتمال الحظر (غير مضمونة)",
+         "en": "Works on iPhone • Updated with game updates • Support after activation • Protection measures to reduce ban risk (not guaranteed)"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "name": "اندرويد",
+     "en": "Android",
+     "emoji": "🤖"
+    }
+   ]
+  },
+  {
+   "name": "SNAP PLUS",
+   "emoji": "👻",
+   "children": [
+    {
+     "name": "ايفون",
+     "en": "iPhone",
+     "emoji": "🍎",
+     "products": [
+      {
+       "name": "اشتراك يومي",
+       "en": "Daily Subscription",
+       "prices": {
+        "egp": 200,
+        "usd": 4,
+        "sar": 15
+       },
+       "info": {
+        "desc": {
+         "ar": "اشتراك SNAP PLUS لنظام ايفون لمدة يوم واحد",
+         "en": "SNAP PLUS subscription for iPhone, 1 day"
+        },
+        "duration": {
+         "ar": "يوم واحد",
+         "en": "1 day"
+        },
+        "features": {
+         "ar": "يعمل على الايفون • بيتحدث مع تحديثات اللعبة • دعم فني بعد التفعيل • إجراءات حماية لتقليل احتمال الحظر (غير مضمونة)",
+         "en": "Works on iPhone • Updated with game updates • Support after activation • Protection measures to reduce ban risk (not guaranteed)"
+        }
+       }
+      },
+      {
+       "name": "اشتراك أسبوعي",
+       "en": "Weekly Subscription",
+       "prices": {
+        "egp": 600,
+        "usd": 15,
+        "sar": 55
+       },
+       "info": {
+        "desc": {
+         "ar": "اشتراك SNAP PLUS لنظام ايفون لمدة 7 أيام",
+         "en": "SNAP PLUS subscription for iPhone, 7 days"
+        },
+        "duration": {
+         "ar": "7 أيام",
+         "en": "7 days"
+        },
+        "features": {
+         "ar": "يعمل على الايفون • بيتحدث مع تحديثات اللعبة • دعم فني بعد التفعيل • إجراءات حماية لتقليل احتمال الحظر (غير مضمونة)",
+         "en": "Works on iPhone • Updated with game updates • Support after activation • Protection measures to reduce ban risk (not guaranteed)"
+        }
+       }
+      },
+      {
+       "name": "اشتراك شهري",
+       "en": "Monthly Subscription",
+       "prices": {
+        "egp": 1300,
+        "usd": 30,
+        "sar": 95
+       },
+       "info": {
+        "desc": {
+         "ar": "اشتراك SNAP PLUS لنظام ايفون لمدة 30 يوم",
+         "en": "SNAP PLUS subscription for iPhone, 30 days"
+        },
+        "duration": {
+         "ar": "30 يوم",
+         "en": "30 days"
+        },
+        "features": {
+         "ar": "يعمل على الايفون • بيتحدث مع تحديثات اللعبة • دعم فني بعد التفعيل • إجراءات حماية لتقليل احتمال الحظر (غير مضمونة)",
+         "en": "Works on iPhone • Updated with game updates • Support after activation • Protection measures to reduce ban risk (not guaranteed)"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "name": "اندرويد",
+     "en": "Android",
+     "emoji": "🤖"
+    }
+   ]
+  }
+ ]
+}
