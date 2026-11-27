@@ -545,6 +545,13 @@ def title_of(path, lang):
     return label(node, lang)
 
 
+# مميزات قسم معين بتظهر فوق أزرار الخطط في شاشة القسم (زي ببجي iOS).
+NODE_FEATURES = {
+    "PUBG [IOS]": ["ايمبوت مميز غير قابل للكشف", "اسبكتيت هاك", "رادار الخطوط", "رادار الاسهم", "تقليل الارتداد",
+                   "ماجيك بولت قوي", "تخطي البوت، تخطي النوك", "مود اسكن كامل بجميع الاسكنات", "اخفاء الهاك عند التصوير", "حفظ اعدادات الهاك"],
+}
+
+
 # ---------- واجهة العميل ----------
 def L(ctx):
     return ctx.user_data.get("lang", "ar")
@@ -585,10 +592,17 @@ def node_screen(path, ctx):
     elif prods:
         rows = [[B("📦 " + name_of(p, lang), callback_data=f"p:{pre}{i}")] for i, p in enumerate(prods)]
         text = f'{title}\n{T[lang]["pick_product"]}'
+        feats = NODE_FEATURES.get(node.get("name"))
+        if feats:
+            head = "✨ المميزات" if lang == "ar" else "✨ Features"
+            text = (title + "\n\n" + head + "\n" + "\n".join("✅ " + f for f in feats)
+                    + "\n\n" + T[lang]["pick_product"])
     else:
         rows = []
         text = f'{title}\n\n⚠️ {T[lang]["unavail"]}'
     rows.append(nav_row(path, lang))
+    if NODE_FEATURES.get(node.get("name")):
+        rows.append([B("🌐 " + T[lang]["lang_btn"], callback_data=f"lg:pick:n:{path}")])
     return text, M(rows)
 
 
@@ -1495,10 +1509,11 @@ async def customer_button(q, ctx, data):
                  f'➕ Card fee: {num(pct)}% (${format(Decimal(need) - Decimal(str(usd)), ".2f")})\n\n'
                  f'✅ Required card value: ${need}\n\nBuy a US {c["en"]} card worth ${need} or more and send the code here.\nNo change is returned.')
         await safe_edit(q, t, M([[B("⬅️ " + T[lang]["back"], callback_data=f"p:{path}"), B("🏠 " + T[lang]["home"], callback_data="home")]]))
-    elif data == "lg:pick":
+    elif data == "lg:pick" or data.startswith("lg:pick:"):
+        ret = data[8:] if data.startswith("lg:pick:") else "pm"
         await safe_edit(q, "🌐 اختار اللغة | Choose language",
                         M([[B("العربية", callback_data="lg:ar"), B("English", callback_data="lg:en")],
-                           [B("⬅️ " + T[lang]["back"], callback_data="pm")]]))
+                           [B("⬅️ " + T[lang]["back"], callback_data=ret)]]))
     elif data in ("lg:ar", "lg:en"):
         await set_language(q.message, ctx, data[3:])
     elif data.startswith("n:"):
